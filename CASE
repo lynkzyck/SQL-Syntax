@@ -1,0 +1,6 @@
+SELECT 
+    CASE WHEN ___ > ___ THEN '___'
+        WHEN > ___ THEN ___
+        ELSE ___ END
+        AS ___
+FROM ___;
